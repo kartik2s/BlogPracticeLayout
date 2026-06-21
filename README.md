@@ -1,4 +1,4 @@
-# Shoe Landing Page
+# Blog Landing Page
 
 A responsive landing page of Blog.
 
